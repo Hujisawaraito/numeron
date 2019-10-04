@@ -1,4 +1,3 @@
-﻿# -*- coding: utf-8 -*-
 import random
 import sys
 def make(x):
